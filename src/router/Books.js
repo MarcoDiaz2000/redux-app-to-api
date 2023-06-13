@@ -1,8 +1,10 @@
 import React from 'react';
+import User from '../components/User';
 
 const Books = () => (
   <div>
-    <h1>Books</h1>
+    <h1>Users</h1>
+    <User />
   </div>
 );
 
